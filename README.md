@@ -26,13 +26,7 @@ Dashboard criado no Power BI para monitorar as **métricas financeiras essenciai
 ## **🛠️ Tecnologias Utilizadas**  
 - **Power BI** (DAX para cálculos de margem e lucro).  
 - **Visualizações**: Gráficos de barras, cards e tabelas dinâmicas.  
-- **Filtros Interativos**: Por período, município e tipo de transação.  
-
----
-
-## **📁 Como Utilizar**  
-1. **Online**: Acesse o link acima para explorar os dados.  
-2. **Arquivo PBIX**: [Download aqui]() *(opcional)*.  
+- **Filtros Interativos**: Por período, município e tipo de transação.
 
 --- 
 
