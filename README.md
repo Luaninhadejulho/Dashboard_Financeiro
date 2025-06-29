@@ -1,44 +1,40 @@
-# Dashboard Financeiro
+# 💰 Dashboard Financeiro
 
-https://github.com/Luaninhadejulho/Dashboard_Financeiro/blob/main/Overview%20Financeiro.png
-Este dashboard apresenta uma visão consolidada e detalhada das finanças da empresa, com foco em receita, despesas, impostos, lucro e análise de movimentações financeiras.
+Este dashboard em Power BI foi desenvolvido com o objetivo de apresentar uma análise financeira completa da empresa, utilizando dados fictícios.
 
-## Principais Métricas e KPIs
+## 🎯 Objetivo do Projeto
 
-- **Receita:** R$ 94.602.867  
-  Valor total das receitas registradas no período analisado.
+Fornecer uma visão clara e estratégica sobre:
+- Receita, despesas, impostos e lucro final
+- Margem de lucro e movimentações financeiras
+- Distribuição geográfica e bancária das transações
+- Evolução do lucro ao longo dos meses
 
-- **Despesas:** -R$ 44.863.841  
-  Total das despesas da empresa, representando os gastos operacionais e outras saídas financeiras.
+## 🧩 Funcionalidades
 
-- **Imposto:** R$ 14.190.430  
-  Valor total de impostos pagos pela empresa.
+✅ **Indicadores principais (cards superiores):**
+- Receita Total
+- Total de Despesas
+- Valor Pago em Impostos
+- Lucro Líquido
 
-- **Lucro:** R$ 125.276.278  
-  Lucro líquido apurado, indicando a rentabilidade após contabilizar receitas, despesas e impostos.
+✅ **Visualizações analíticas:**
+- **Movimentação por Município:** mostra os locais com maior volume financeiro
+- **Movimentação por Banco:** revela os principais bancos utilizados
+- **Margem de Lucro:** percentual de lucro comparado às despesas
+- **Resumo de Transações:** total de transações e proporção feitas via Pix
+- **Lucro Mensal:** evolução do lucro mês a mês com gráfico de cascata
 
-## Análises Complementares
+## 🖼️ Exemplo visual
 
-- **Movimentação por Município:**  
-  Exibe a distribuição da movimentação financeira por municípios, destacando São Paulo como o principal local com maior volume.
+![Dashboard Financeiro](./Overview%20Financeiro.png)
 
-- **Movimentação por Banco:**  
-  Gráfico que apresenta os principais bancos utilizados para as transações financeiras, com destaque para Itaú, Safra e Santander.
+## 📌 Observações
 
-- **Margem de Lucro:**  
-  Representada em gráfico de rosca, mostrando a proporção percentual de lucro em relação às despesas (56,39% lucro e 43,61% despesas).
+- Os dados utilizados são totalmente fictícios e foram criados apenas para fins educacionais e de portfólio.
+- Projeto desenvolvido em Power BI Desktop (.pbix)
+- Interface visual com ícones, cores e estrutura pensadas para facilitar a leitura executiva
 
-- **Transações por Canal:**  
-  Informação textual que detalha o total de 2.575 transações realizadas, sendo 1.200 via Pix, o que representa 44,04% das movimentações, indicando o peso das transações digitais.
+---
 
-- **Lucro Mensal:**  
-  Gráfico acumulativo (waterfall) mostrando o lucro mensal de janeiro a dezembro, com valores mensais destacados e o total anual ao final.
-
-## Objetivo
-
-O dashboard foi criado para facilitar o monitoramento financeiro, identificando pontos fortes e áreas de atenção, bem como para suportar tomadas de decisão estratégicas com base nos dados financeiros da empresa.
-
-## Tecnologias Utilizadas
-
-- Power BI para criação do dashboard
-- Fontes de dados financeiras internas da empresa
+🔗 Projeto criado por [Luana Alves](https://github.com/Luaninhadejulho) para fins de demonstração de habilidades em análise e visualização de dados.
