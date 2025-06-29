@@ -1,7 +1,6 @@
 # Dashboard Financeiro
 
-![Dashboard Financeiro](Overview Financeiro.png)
-
+https://github.com/Luaninhadejulho/Dashboard_Financeiro/blob/main/Overview%20Financeiro.png
 Este dashboard apresenta uma visão consolidada e detalhada das finanças da empresa, com foco em receita, despesas, impostos, lucro e análise de movimentações financeiras.
 
 ## Principais Métricas e KPIs
