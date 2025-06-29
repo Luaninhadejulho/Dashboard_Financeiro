@@ -1,6 +1,6 @@
 # Dashboard Financeiro
 
-![Dashboard Financeiro](7fefcdbc-52e1-4995-8edc-a83d3e7386e0.png)
+![Dashboard Financeiro](Overview Financeiro.png)
 
 Este dashboard apresenta uma visão consolidada e detalhada das finanças da empresa, com foco em receita, despesas, impostos, lucro e análise de movimentações financeiras.
 
